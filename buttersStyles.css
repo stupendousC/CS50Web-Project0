@@ -1,0 +1,30 @@
+body
+{
+    background-color: lightyellow;
+    font: bold;
+    font-family: 'Arial Rounded MT', Arial, sans-serif;
+}
+h1 {
+    text-align: center;
+    color: forestgreen;
+    margin: 30px;
+    padding: 10px;
+}
+footer {
+    font-size: 10px;
+    text-align: center;
+}
+div {
+    text-align: center;
+}
+.row {
+    color: purple;
+    font: italic;
+}
+#foodsTable {
+       color: black;
+       }
+
+th, td {
+    padding: 5px;
+}
